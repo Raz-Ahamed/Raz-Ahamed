@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Raz Ahamed</h1>
 <h3 align="center">Cyber security expert, Web developer, Android and Ios App developer,Linux Tool Maker</h3>
-<img src="raz.png" alt="Girl in a jacket" style="width:250px;height:250px; border-radius: 50%;">
+<center><img src="raz.png" alt="Girl in a jacket" style="width:250px;height:250px; border-radius: 50%;"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raz-ahamed&label=Profile%20views&color=0e75b6&style=flat" alt="raz-ahamed" /> </p>
 
